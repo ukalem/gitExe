@@ -1,6 +1,6 @@
 This is the first file added
-b1
-	First contribution from b1
+b1b2
+	First contribution from b1b2
 b1
 masterM1
 	second commit by master brach
